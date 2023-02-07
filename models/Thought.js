@@ -1,8 +1,8 @@
 const { Schema, model, Types } = require('mongoose');
-const dayjs = require('day.js');
 
-var now = dayjs();
-var timestamp = dayjs().get('MMDDYYYY')
+const now = Date.now();
+
+
 
 const ReactionSchema = new Schema({
     reactionId: {
@@ -42,7 +42,7 @@ const ThoughtSchema = new Schema({
     createdAt: {
         type: Date,
         default: now,
-        // get
+        
     },
     username: {
         type: String,

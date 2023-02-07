@@ -1,7 +1,7 @@
 const { Schema, model } = require('mongoose');
-const dayjs = require('day.js');
 
-const now = dayjs();
+
+
 
 const UserSchema = new Schema({
     username: {
