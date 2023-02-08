@@ -105,11 +105,11 @@ createReaction({ params, body }, res) {
       .populate({path: 'reactions', select: '-__v'})
       .select('-__v')
       .then(dbThoughtData => {
-    if (!dbUserData) {
+    if (!dbThoughtData) {
         res.status(404).json({ message: 'No Thoughts found with this id!' });
         return;
       }
-      res.json(dbUserData);
+      res.json(dbThoughtData);
     })
     .catch(err => res.status(400).json(err))
   },

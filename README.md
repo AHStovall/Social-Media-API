@@ -38,5 +38,7 @@ License Details:
 This project is unlicensed.
 
 Submission Link:
-
-
+[User Link](https://drive.google.com/file/d/1IYMQOc5C_nicASvO1x0iJXiHR2LqW-ZW/view?usp=share_link)
+[Friend Link](https://drive.google.com/file/d/1rVgxJEakhgtesLyCJKoLgd8xaarG03ae/view?usp=share_link)
+[Thought Link](https://drive.google.com/file/d/1ADg4V_Fc5F0knmSHIKAqhkT7wFYfRVaS/view?usp=share_link)
+[Reaction Link](https://drive.google.com/file/d/1R8EtskjJxan3gzrUMwxAlANxjURiynf_/view?usp=share_link)
